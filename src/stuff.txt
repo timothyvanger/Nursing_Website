@@ -1,0 +1,3 @@
+Flashcards for vocab
+Word is shown and able to select a definition from multiple choices; then if answer is correct- reaffirm; if wrong gives definition
+Definition shows context, meaning, uses

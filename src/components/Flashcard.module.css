@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  border: 0;
+}
+#layoutContainer {
+  display: flex;
+  gap: 0.5rem;
+}
+.flashCard {
+  border: 1px solid black;
+  border-radius: 2%;
+  max-width: 500px;
+  min-height: 300px;
+  margin: 10% auto;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.flashCardContent {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid cyan;
+}
+.flashCardQuestion {
+  border: 1px solid black;
+}
